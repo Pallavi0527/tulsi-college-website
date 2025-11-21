@@ -1,0 +1,103 @@
+[
+  {
+    "caption": "College Main Building",
+    "category": "campus",
+    "icon": "🏛️"
+  },
+  {
+    "caption": "Library Interior",
+    "category": "campus",
+    "icon": "📚"
+  },
+  {
+    "caption": "Science Laboratory",
+    "category": "campus",
+    "icon": "🔬"
+  },
+  {
+    "caption": "Computer Lab",
+    "category": "campus",
+    "icon": "💻"
+  },
+  {
+    "caption": "Chemistry Lab",
+    "category": "campus",
+    "icon": "⚗️"
+  },
+  {
+    "caption": "Physics Lab",
+    "category": "campus",
+    "icon": "🔭"
+  },
+  {
+    "caption": "Sports Ground",
+    "category": "sports",
+    "icon": "🏃"
+  },
+  {
+    "caption": "Basketball Court",
+    "category": "sports",
+    "icon": "🏀"
+  },
+  {
+    "caption": "Cricket Match",
+    "category": "sports",
+    "icon": "🏏"
+  },
+  {
+    "caption": "Annual Day Performance",
+    "category": "cultural",
+    "icon": "🎭"
+  },
+  {
+    "caption": "Dance Performance",
+    "category": "cultural",
+    "icon": "💃"
+  },
+  {
+    "caption": "Music Concert",
+    "category": "cultural",
+    "icon": "🎵"
+  },
+  {
+    "caption": "Science Exhibition",
+    "category": "events",
+    "icon": "🔬"
+  },
+  {
+    "caption": "Guest Lecture",
+    "category": "events",
+    "icon": "🎤"
+  },
+  {
+    "caption": "Career Guidance Session",
+    "category": "events",
+    "icon": "💼"
+  },
+  {
+    "caption": "College Cafeteria",
+    "category": "campus",
+    "icon": "🍽️"
+  },
+  {
+    "caption": "Auditorium",
+    "category": "campus",
+    "icon": "🎭"
+  },
+  {
+    "caption": "Hostel Building",
+    "category": "campus",
+    "icon": "🏠"
+  },
+  {
+    "caption": "College Garden",
+    "category": "campus",
+    "icon": "🌳"
+  },
+  {
+    "caption": "Award Ceremony",
+    "category": "events",
+    "icon": "🏆"
+  }
+]
+

@@ -1,0 +1,103 @@
+{
+  "events": [
+    {
+      "title": "Annual Day Celebration",
+      "description": "Join us for our grand annual day celebration featuring cultural performances, awards ceremony, and inspiring guest speakers. A day to celebrate excellence and achievements.",
+      "date": "March 15, 2024",
+      "time": "4:00 PM - 8:00 PM",
+      "location": "College Auditorium",
+      "icon": "🎭"
+    },
+    {
+      "title": "Science Exhibition 2024",
+      "description": "Students showcase innovative science projects and experiments. Open to all students, parents, and visitors. Prizes for best projects.",
+      "date": "March 20, 2024",
+      "time": "10:00 AM - 4:00 PM",
+      "location": "Science Block",
+      "icon": "🔬"
+    },
+    {
+      "title": "Sports Meet 2024",
+      "description": "Annual inter-department sports competition featuring athletics, cricket, football, basketball, and indoor games. Cheer for your department!",
+      "date": "March 25, 2024",
+      "time": "9:00 AM - 5:00 PM",
+      "location": "College Ground",
+      "icon": "🏃"
+    },
+    {
+      "title": "Career Guidance Seminar",
+      "description": "Expert speakers from various industries discuss career opportunities, higher education options, and skill development for students.",
+      "date": "April 5, 2024",
+      "time": "2:00 PM - 5:00 PM",
+      "location": "Seminar Hall",
+      "icon": "💼"
+    },
+    {
+      "title": "Literary Fest",
+      "description": "Poetry recitation, debate competition, essay writing, and literary quiz. Showcase your literary talents!",
+      "date": "April 10, 2024",
+      "time": "10:00 AM - 3:00 PM",
+      "location": "Library & Auditorium",
+      "icon": "📚"
+    },
+    {
+      "title": "Tech Fest",
+      "description": "Technology exhibition, coding competition, robotics showcase, and IT workshops. Explore the world of technology!",
+      "date": "April 15, 2024",
+      "time": "9:00 AM - 4:00 PM",
+      "location": "Computer Lab & Seminar Hall",
+      "icon": "💻"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Admission Open for Academic Year 2024-25",
+      "date": "March 1, 2024",
+      "content": "Admissions are now open for all undergraduate and postgraduate courses. Last date for submission of application forms: April 30, 2024. Merit list will be displayed on May 15, 2024.",
+      "download": "#"
+    },
+    {
+      "title": "Holiday Notice - Holi Festival",
+      "date": "March 8, 2024",
+      "content": "College will remain closed on March 25, 2024 on account of Holi festival. All classes will resume on March 26, 2024 as per regular schedule.",
+      "download": "#"
+    },
+    {
+      "title": "Examination Schedule Released",
+      "date": "February 28, 2024",
+      "content": "The examination schedule for the current semester has been released. Students are advised to check the notice board or college website for detailed timetable. Examinations will commence from April 1, 2024.",
+      "download": "#"
+    },
+    {
+      "title": "Library Timings Extended",
+      "date": "February 25, 2024",
+      "content": "Library will remain open till 8:00 PM during examination period (March 15 - April 15, 2024). All students are welcome to utilize the extended hours for study and research.",
+      "download": "#"
+    },
+    {
+      "title": "Scholarship Application Deadline",
+      "date": "February 20, 2024",
+      "content": "Last date for submitting scholarship applications is March 15, 2024. Eligible students are requested to submit their applications along with required documents to the administrative office before the deadline.",
+      "download": "#"
+    },
+    {
+      "title": "Hostel Admission Open",
+      "date": "February 18, 2024",
+      "content": "Hostel admissions for the academic year 2024-25 are now open. Limited seats available. Interested students should contact the hostel warden or administrative office for application forms.",
+      "download": "#"
+    },
+    {
+      "title": "Bus Route Information",
+      "date": "February 15, 2024",
+      "content": "College bus routes and timings for the new academic session have been updated. Students using college transportation are requested to check the updated schedule. Bus passes available at the administrative office.",
+      "download": "#"
+    },
+    {
+      "title": "Fee Payment Reminder",
+      "date": "February 10, 2024",
+      "content": "Students are reminded to pay the second installment of fees before March 31, 2024. Late fee charges will apply after the due date. Payment can be made online or at the college office.",
+      "download": "#"
+    }
+  ]
+}
+

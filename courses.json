@@ -1,0 +1,74 @@
+[
+  {
+    "name": "B.Sc",
+    "description": "Bachelor of Computer Science with comprehensive business and accounting knowledge. Covers subjects like Accounting, Business Law, Economics, and Management.",
+    "duration": "3 Years",
+    "category": "Computer Science",
+    "icon": "💼"
+  },
+  {
+    "name": "B.Com (Hons)",
+    "description": "Honors program in Commerce with advanced specialization in Accounting, Finance, and Business Management. Ideal for students pursuing CA, CS, or CMA.",
+    "duration": "3 Years",
+    "category": "commerce",
+    "icon": "📊"
+  },
+  {
+    "name": "B.Sc (Physics, Chemistry, Mathematics)",
+    "description": "Bachelor of Science in PCM. Perfect foundation for engineering, research, and higher studies in physical sciences.",
+    "duration": "3 Years",
+    "category": "science",
+    "icon": "🔬"
+  },
+  {
+    "name": "B.Sc (Physics, Chemistry, Biology)",
+    "description": "Bachelor of Science in PCB. Ideal for students aspiring to pursue medical, pharmacy, or biotechnology careers.",
+    "duration": "3 Years",
+    "category": "science",
+    "icon": "🧬"
+  },
+  {
+    "name": "B.A (English, History, Political Science)",
+    "description": "Bachelor of Arts with focus on English Literature, Indian History, and Political Science. Great for civil services and teaching careers.",
+    "duration": "3 Years",
+    "category": "arts",
+    "icon": "📖"
+  },
+  {
+    "name": "B.A (Economics, Sociology, Psychology)",
+    "description": "Bachelor of Arts in social sciences. Covers economic principles, social behavior, and human psychology.",
+    "duration": "3 Years",
+    "category": "arts",
+    "icon": "📚"
+  },
+  {
+    "name": "BBA",
+    "description": "Bachelor of Business Administration. Professional course covering management, marketing, finance, and entrepreneurship.",
+    "duration": "3 Years",
+    "category": "professional",
+    "icon": "🎯"
+  },
+  {
+    "name": "BCA",
+    "description": "Bachelor of Computer Applications. Covers programming, software development, database management, and web technologies.",
+    "duration": "3 Years",
+    "category": "professional",
+    "icon": "💻"
+  },
+  
+  {
+    "name": "M.Sc ",
+    "description": "Master of Computer Science.",
+    "duration": "2 Years",
+    "category": "science",
+    "icon": "📐"
+  },
+  {
+    "name": "M.A (English)",
+    "description": "Master of Arts in English Literature. Advanced literary studies, critical analysis, and research in English literature.",
+    "duration": "2 Years",
+    "category": "arts",
+    "icon": "📝"
+  }
+]
+

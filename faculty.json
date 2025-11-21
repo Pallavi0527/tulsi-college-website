@@ -1,0 +1,99 @@
+[
+  {
+    "name": "Dr. Rajesh Kumar",
+    "designation": "Principal",
+    "qualification": "Ph.D. in Commerce, M.Com, M.Phil",
+    "department": "Management",
+    "experience": "25+ years",
+    "photo": "👨‍🏫"
+  },
+  {
+    "name": "Prof. Meera Singh",
+    "designation": "Vice Principal",
+    "qualification": "M.Com, M.Phil, NET Qualified",
+    "department": "Commerce",
+    "experience": "20+ years",
+    "photo": "👩‍🏫"
+  },
+  {
+    "name": "Dr. Anil Sharma",
+    "designation": "Professor",
+    "qualification": "Ph.D. in Physics, M.Sc, NET",
+    "department": "Science",
+    "experience": "22+ years",
+    "photo": "👨‍🔬"
+  },
+  {
+    "name": "Prof. Priya Patel",
+    "designation": "Associate Professor",
+    "qualification": "M.Sc Chemistry, Ph.D., NET",
+    "department": "Science",
+    "experience": "18+ years",
+    "photo": "👩‍🔬"
+  },
+  {
+    "name": "Dr. Vikram Mehta",
+    "designation": "Professor",
+    "qualification": "Ph.D. in English Literature, M.A, M.Phil",
+    "department": "Arts",
+    "experience": "20+ years",
+    "photo": "👨‍🎓"
+  },
+  {
+    "name": "Prof. Sunita Reddy",
+    "designation": "Associate Professor",
+    "qualification": "M.A History, M.Phil, NET",
+    "department": "Arts",
+    "experience": "15+ years",
+    "photo": "👩‍🎓"
+  },
+  {
+    "name": "Prof. Rahul Gupta",
+    "designation": "Assistant Professor",
+    "qualification": "M.Com, NET Qualified",
+    "department": "Commerce",
+    "experience": "10+ years",
+    "photo": "👨‍💼"
+  },
+  {
+    "name": "Prof. Neha Verma",
+    "designation": "Assistant Professor",
+    "qualification": "M.C.A, M.Tech (Computer Science)",
+    "department": "Professional",
+    "experience": "8+ years",
+    "photo": "👩‍💻"
+  },
+  {
+    "name": "Prof. Amit Kumar",
+    "designation": "Assistant Professor",
+    "qualification": "M.B.A, Ph.D. (Management)",
+    "department": "Professional",
+    "experience": "12+ years",
+    "photo": "👨‍💼"
+  },
+  {
+    "name": "Prof. Kavita Desai",
+    "designation": "Assistant Professor",
+    "qualification": "M.Com, CA (Inter)",
+    "department": "Commerce",
+    "experience": "7+ years",
+    "photo": "👩‍💼"
+  },
+  {
+    "name": "Dr. Sanjay Joshi",
+    "designation": "Associate Professor",
+    "qualification": "Ph.D. in Mathematics, M.Sc",
+    "department": "Science",
+    "experience": "16+ years",
+    "photo": "👨‍🔬"
+  },
+  {
+    "name": "Prof. Anjali Shah",
+    "designation": "Assistant Professor",
+    "qualification": "M.A Political Science, M.Phil",
+    "department": "Arts",
+    "experience": "9+ years",
+    "photo": "👩‍🎓"
+  }
+]
+
